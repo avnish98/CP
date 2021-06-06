@@ -1,2 +1,0 @@
-# CP
-Competitive Programming Practice
